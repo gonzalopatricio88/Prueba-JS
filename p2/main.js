@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	$("p1").html("Nuevo parrafo");
+	$(".p1").html("Nuevo parrafo");
 });
